@@ -1,7 +1,7 @@
 ### Hi there 👋
-Myself santosh kumar having more than 8 yrs of experienc in software developer .
+Myself Santosh Kumar Sugur having more than 8 yrs of experience as software developer and interested in learning new things related to web and Apps development. 
 
-I am currently working on iOS OTT platform project where my contribution is to develope and mentain the project .
+I am currently working on iOS OTT platform project where my contribution is to develop and maintain the project .
 
 ## LeetCode profile : https://leetcode.com/user0171DG/
 
